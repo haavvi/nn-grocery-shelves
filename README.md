@@ -52,5 +52,5 @@ Keras can be installed using pip:
 ``` bash
 pip install keras
 ```
-
+Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular.
 
